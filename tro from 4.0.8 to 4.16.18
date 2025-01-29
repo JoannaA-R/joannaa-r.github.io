@@ -1,0 +1,136 @@
+[33mcommit a2d09334ffb4273af8de3809c0c6896704eb233c[m[33m ([m[1;36mHEAD -> [m[1;32mdependabot/npm_and_yarn/astro-4.16.18[m[33m, [m[1;31morigin/dependabot/npm_and_yarn/astro-4.16.18[m[33m)[m
+Author: joannaa-r <trudopasta14@gmail.com>
+Date:   Wed Jan 29 22:09:37 2025 +0000
+
+    add fest pic
+
+[33mcommit df7b4d11b7380f95a8762674ac0f15d49975da3f[m
+Author: joannaa-r <trudopasta14@gmail.com>
+Date:   Tue Jan 28 22:14:35 2025 +0000
+
+    first entries
+
+[33mcommit aeb79e04abcc88159138c15159c6f1aae517f6e3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 27 15:48:11 2025 +0000
+
+    Bump astro from 4.0.8 to 4.16.18
+    
+    Bumps [astro](https://github.com/withastro/astro/tree/HEAD/packages/astro) from 4.0.8 to 4.16.18.
+    - [Release notes](https://github.com/withastro/astro/releases)
+    - [Changelog](https://github.com/withastro/astro/blob/astro@4.16.18/packages/astro/CHANGELOG.md)
+    - [Commits](https://github.com/withastro/astro/commits/astro@4.16.18/packages/astro)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: astro
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 8f992234d864b365fcd57d90ae2b2f9e9b674033[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 2f9d305 6f0af26
+Author: JoannaA-R <trudopasta14@gmail.com>
+Date:   Mon Jan 27 15:46:30 2025 +0000
+
+    Merge pull request #4 from JoannaA-R/dependabot/npm_and_yarn/astrojs/sitemap-3.2.1
+    
+    Bump @astrojs/sitemap from 3.0.4 to 3.2.1
+
+[33mcommit 6f0af26087ea44ae4289b6b356012c28e2775a46[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 27 15:46:18 2025 +0000
+
+    Bump @astrojs/sitemap from 3.0.4 to 3.2.1
+    
+    Bumps [@astrojs/sitemap](https://github.com/withastro/astro/tree/HEAD/packages/integrations/sitemap) from 3.0.4 to 3.2.1.
+    - [Release notes](https://github.com/withastro/astro/releases)
+    - [Changelog](https://github.com/withastro/astro/blob/main/packages/integrations/sitemap/CHANGELOG.md)
+    - [Commits](https://github.com/withastro/astro/commits/@astrojs/sitemap@3.2.1/packages/integrations/sitemap)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@astrojs/sitemap"
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2f9d30581eb756fdcd299bf782270fd2239d2d14[m
+Merge: 4cd1b8a ee1c732
+Author: JoannaA-R <trudopasta14@gmail.com>
+Date:   Mon Jan 27 15:46:08 2025 +0000
+
+    Merge pull request #5 from JoannaA-R/dependabot/npm_and_yarn/astrojs/rss-4.0.11
+    
+    Bump @astrojs/rss from 4.0.1 to 4.0.11
+
+[33mcommit ee1c7322a60b3cc0a3cf42a69cd068f6a72f6bd2[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 27 15:44:27 2025 +0000
+
+    Bump @astrojs/rss from 4.0.1 to 4.0.11
+    
+    Bumps [@astrojs/rss](https://github.com/withastro/astro/tree/HEAD/packages/astro-rss) from 4.0.1 to 4.0.11.
+    - [Release notes](https://github.com/withastro/astro/releases)
+    - [Changelog](https://github.com/withastro/astro/blob/main/packages/astro-rss/CHANGELOG.md)
+    - [Commits](https://github.com/withastro/astro/commits/@astrojs/rss@4.0.11/packages/astro-rss)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@astrojs/rss"
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 4cd1b8a748b6c9bc388263ebefa098e81a5a66e2[m
+Merge: 98d732a 3e76378
+Author: JoannaA-R <trudopasta14@gmail.com>
+Date:   Mon Jan 27 15:42:31 2025 +0000
+
+    Merge pull request #1 from JoannaA-R/dependabot/npm_and_yarn/prettier-3.4.2
+    
+    Bump prettier from 3.0.3 to 3.4.2
+
+[33mcommit 98d732a7da051d05071aa76c6d6051a71edd32c6[m
+Author: joannaa-r <trudopasta14@gmail.com>
+Date:   Mon Jan 27 15:37:18 2025 +0000
+
+    linki
+
+[33mcommit 9472e9804300a62d1b669fc1596211cf38d47678[m
+Author: joannaa-r <trudopasta14@gmail.com>
+Date:   Mon Jan 27 15:35:50 2025 +0000
+
+    twitter removal
+
+[33mcommit 3e76378aa1581e23dad9f707b6e77d4208f62326[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 27 14:19:59 2025 +0000
+
+    Bump prettier from 3.0.3 to 3.4.2
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 3.0.3 to 3.4.2.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/3.0.3...3.4.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit f5b53227859e7d8f908f49e31938e8ad78ce6930[m
+Author: JoannaA-R <trudopasta14@gmail.com>
+Date:   Mon Jan 27 14:17:16 2025 +0000
+
+    Initial commit
