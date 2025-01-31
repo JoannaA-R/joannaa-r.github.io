@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	site: 'https://joannaa-r.github.io/', // Write here your website url
 	author: 'Joanna', // Site author
 	title: 'Astro Blog', // Site title.
-	description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.', // Description to display in the meta tags
+	description: 'Astro Blog', // Description to display in the meta tags
 	lang: 'en-GB',
 	ogLocale: 'en_GB',
 	shareMessage: 'Share this post', // Message to share a post on social media
