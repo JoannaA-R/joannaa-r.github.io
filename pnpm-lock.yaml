@@ -18,8 +18,8 @@ importers:
         specifier: ^0.0.72
         version: 0.0.72
       pnpm:
-        specifier: ^9.15.4
-        version: 9.15.4
+        specifier: ^9.15.5
+        version: 9.15.5
     devDependencies:
       '@astrojs/mdx':
         specifier: 2.0.3
@@ -6672,8 +6672,8 @@ packages:
     resolution: {integrity: sha512-HRDzbaKjC+AOWVXxAU/x54COGeIv9eb+6CkDSQoNTt4XyWoIJvuPsXizxu/Fr23EiekbtZwmh1IcIG/l/a10GQ==}
     engines: {node: '>=8'}
 
-  pnpm@9.15.4:
-    resolution: {integrity: sha512-stwg4vxys+GISEWbNzWaMgZGY+VielHkx0ssKd2OjgSRSDw6u0B4nP1Xi/Ni+2uoJhsF8Dh9dnku1uI+o7G2oA==}
+  pnpm@9.15.5:
+    resolution: {integrity: sha512-hFGWAmqrHMPwmKBHS2TfurKv56G06R3YaJXY5Koyp6bQMEni0K13C75N4COnEi+2jBodbg0DPHB2CF+dXUgA1A==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -17373,7 +17373,7 @@ snapshots:
     dependencies:
       find-up: 4.1.0
 
-  pnpm@9.15.4: {}
+  pnpm@9.15.5: {}
 
   popmotion@11.0.3:
     dependencies:
