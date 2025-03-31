@@ -36,7 +36,7 @@
 		"@astrojs/rss": "4.0.11",
 		"astro": "4.16.18",
 		"astro-font": "^0.0.72",
-		"pnpm": "^9.15.4"
+		"pnpm": "^10.7.0"
 	},
 	"devDependencies": {
 		"@astrojs/mdx": "2.0.3",
